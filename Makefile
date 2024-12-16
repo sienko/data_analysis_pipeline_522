@@ -6,7 +6,7 @@
 #	make all #(to prep the final report)
 #	make clean #(to remove all files and reset outputs)
 
-.PHONY all clean
+.PHONY: all clean
 
 all : report/count_report.html
 
